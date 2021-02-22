@@ -7,3 +7,5 @@ xgboost
 hyperopt
 seaborn
 matplotlib
+flask
+dill
