@@ -12,6 +12,7 @@
   - AB modelling - моделирование определения статистически значимой разницы между влияниями на бизнес-показатели двух версий модели
   - app - Rest-Api сервис c запуском локального сервера и примером запроса
   - sandbox - прототипирование с небольшим eda, пайплайнами feature engineering и feature selection
+  - models - финальные модели для Rest-Api
 
 ### Используемые статистические тесты и техники ###
   - тест Колмогорова-Смирнова
@@ -32,7 +33,7 @@
 
  - ```git clone https://github.com/doksketch/call-you-maybe.git```
  - ```python -m pip install requirements.txt```
- - скачать и распаковать [архив с данными](https://drive.google.com/file/d/1kUwVfjlptJLHx37cRUSQwpZsYXMgkHA7/view?usp=sharing)
+ - скачать и распаковать [архив с данными](https://drive.google.com/file/d/1WX76gTijElpLSAMC0mSVH74Tqn_ZudUS/view?usp=sharing)
  - выбрать нужный блокнот
 
 Данные взяты из хакатона X5Retailhero
