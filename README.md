@@ -33,7 +33,7 @@
 
  - ```git clone https://github.com/doksketch/call-you-maybe.git```
  - ```python -m pip install requirements.txt```
- - скачать и распаковать [архив с данными](https://drive.google.com/file/d/1kUwVfjlptJLHx37cRUSQwpZsYXMgkHA7/view?usp=sharing)
+ - скачать и распаковать [архив с данными](https://drive.google.com/file/d/1WX76gTijElpLSAMC0mSVH74Tqn_ZudUS/view?usp=sharing)
  - выбрать нужный блокнот
 
 Данные взяты из хакатона X5Retailhero
